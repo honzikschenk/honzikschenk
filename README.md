@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm Honzík, an incoming first-year Software Engineering student at the University of Waterloo interested in integrated software engineering for robotics and space applications.
+I'm Honzík, an incoming first-year Software Engineering student at the University of Waterloo interested in perceptive robotics.
 
 - 🌱 I’m currently learning **control theory and machine learning**
-- 🔭 I’m currently working on **FRC Robots and model rockets**
+- 🔭 I’m currently working on **FRC Robots and embedded software**
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
