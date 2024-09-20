@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Honzík, an incoming first-year Software Engineering student at the University of Waterloo interested in perceptive robotics.
+I'm Honzík, a first-year software engineering student at the University of Waterloo interested in integrated software engineering for robotics and space applications. I've worked with control theory concepts, such as state-space control, AprilTag localization, and PID loops, and collaborative tools like Github Actions, Git, and Gantt charts. In high school, I organized weekly standups, presented to local industry leaders, and participated in various community outreach events. I love backpacking, mountain biking, and rock climbing in my free time.
 
 - 🌱 I’m currently learning **control theory and machine learning**
 - 🔭 I’m currently working on **FRC Robots and embedded software**
